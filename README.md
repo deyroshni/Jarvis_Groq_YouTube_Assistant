@@ -1,0 +1,1 @@
+Install requirements, copy .env.example to .env, add GROQ key, run python app.py

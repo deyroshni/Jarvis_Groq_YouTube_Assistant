@@ -1,0 +1,9 @@
+groq
+python-dotenv
+yt-dlp
+certifi
+pyttsx3
+speechrecognition
+webdriver-manager
+pyaudio
+#3.11 required
